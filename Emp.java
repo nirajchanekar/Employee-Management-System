@@ -99,7 +99,7 @@ class Emp{
 
     else
         {
-            System.out.println("Incorrect Username or Passward");
+            System.out.println("Incorrect Username OR Passward");
             System.out.println("~~~~~~~~~~Try Again!~~~~~~~~~~");
         }
 
